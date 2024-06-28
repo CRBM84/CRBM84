@@ -1,7 +1,17 @@
-## Hi there 👋
+# Hello world, I'm Carlos,
+
+:fire:Thank you for visiting my repo!:fire:
+
+
+---
+
+Feel free to explore my projects and utilize any resources that you find helpful. If you have any questions, don't hesitate to ask me.
+If you notice anything that can be improved and would like to help, you can either write to me or open a pull request.
+
+
 
 <!--
-**CRBM84/CRBM84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This section I hope to fill in the future with cool projects. 
 
 Here are some ideas to get you started:
 
